@@ -1,6 +1,6 @@
 # Port Scanner
 
-A simple Python port scanner that checks common network ports on a website or IP address.
+A fast and efficient Python-based port scanner with multithreading and service detection.
 
 ## Features
 
